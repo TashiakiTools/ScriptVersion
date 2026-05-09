@@ -1,4 +1,5 @@
 {
-  "latestVersion": "0.1.0",
-  "minimumVersion": "0.0.0"
+  "version": "1.1.0",
+  "downloadUrl": "https://github.com/marcusdawerewolf-jpg/Script-MISC-Bone-Fixer-Follower/releases",
+  "changelog": "Ajout du version checker et corrections diverses."
 }
