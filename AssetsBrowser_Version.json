@@ -1,5 +1,5 @@
 {
   "version": "0.0.1",
   "downloadUrl": "",
-  "changelog": "Ajout du version checker et corrections diverses."
+  "changelog": "Correction des ancien Items pouvant pas etre importer pour format incorrect"
 }
