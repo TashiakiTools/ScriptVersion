@@ -1,13 +1,8 @@
 {
   "version": "0.0.20",
-  "downloadUrl": "https://ug.link/nexus-omegacore/filemgr/share-download/?id=763b4e2d06aa4951b45b0eb149509830",
+  "downloadUrl": "https://ug.link/nexus-omegacore/filemgr/share-download/?id=82e92ff13ba8402d8eb658f3f92e0d0b",
   "changelog": "Aucun Changement ont été Partager",
   "changes": [
-    {
-      "type": "nouveau",
-      "label": "Nouveau",
-      "text": "Onglets Avatars / Worlds dans la vue des éléments"
-    },
     {
       "type": "amelioration",
       "label": "Amélioration",
