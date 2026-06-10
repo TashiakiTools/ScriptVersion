@@ -1,12 +1,22 @@
 {
-  "version": "0.0.20",
+  "version": "0.0.21",
   "downloadUrl": "https://ug.link/nexus-omegacore/filemgr/share-download/?id=82e92ff13ba8402d8eb658f3f92e0d0b",
   "changelog": "Aucun Changement ont été Partager",
   "changes": [
     {
+      "type": "optimisation",
+      "label": "Optimisation",
+      "text": "Retrait du bouton desormait inutile de capture manuelle"
+    },
+    {
       "type": "amelioration",
       "label": "Amélioration",
-      "text": "UI Construite avec une base d'HTML / CSS / JS"
-    }
+      "text": "Fluidification de l'UI"
+    },
+    {
+      "type": "nouveau",
+      "label": "Nouveautée",
+      "text": "Ajout de petite confirmation pour les differents action."
+    },
   ]
 }
