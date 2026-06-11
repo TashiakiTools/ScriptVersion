@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "downloadUrl": "https://jinxxy.com/Tashiaki/8CB5W",
-  "changelog": "Adding Version Check and minor updates."
+  "changelog": "Suggestion added - Now able to manually add an parameter list as well of being able to drag n drop the animator controller\n Major UI improvements the reworks"
 }
