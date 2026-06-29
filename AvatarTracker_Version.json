@@ -1,22 +1,17 @@
 {
-  "version": "0.0.21",
+  "version": "0.0.22",
   "downloadUrl": "https://ug.link/nexus-omegacore/filemgr/share-download/?id=82e92ff13ba8402d8eb658f3f92e0d0b",
   "changelog": "Aucun Changement ont été Partager",
   "changes": [
     {
       "type": "optimisation",
       "label": "Optimisation",
-      "text": "Retrait du bouton desormait inutile de capture manuelle"
+      "text": "Amelioration et correction du Fetching d'information"
     },
     {
       "type": "amelioration",
       "label": "Amélioration",
-      "text": "Fluidification de l'UI"
-    },
-    {
-      "type": "nouveau",
-      "label": "Nouveautée",
-      "text": "Ajout de petite confirmation pour les differents action."
-    },
+      "text": "Amélioration de l'UI de connexion"
+    }
   ]
 }
