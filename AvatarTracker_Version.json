@@ -1,27 +1,17 @@
 {
-  "version": "0.0.25",
+  "version": "0.0.26",
   "downloadUrl": "https://ug.link/nexus-omegacore/filemgr/share-download/?id=82e92ff13ba8402d8eb658f3f92e0d0b",
   "changelog": "Aucun Changement ont été Partager",
   "changes": [
     {
       "type": "correction",
       "label": "Correction",
-      "text": "Correction de Bugs"
+      "text": "Rework du Menu Principale pour une meilleurs fluiditée d'utilisation"
     },
     {
       "type": "ajout",
       "label": "Nouveauté",
-      "text": "Ajout de statistique sur les avatars et les worlds enregistrée"
-    },
-    {
-      "type": "amelioration",
-      "label": "Amélioration",
-      "text": "Avatars et worlds recent envoyer dans la Base de donnée pour recovery"
-    },
-    {
-      "type": "ajout",
-      "label": "Nouveauté",
-      "text": "Creation d'un installateur"
+      "text": "Ajout de la fonction d'Univers"
     }
   ]
 }
