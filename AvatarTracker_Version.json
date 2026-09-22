@@ -1,17 +1,22 @@
 {
-  "version": "0.0.26",
+  "version": "0.0.28",
   "downloadUrl": "https://ug.link/nexus-omegacore/filemgr/share-download/?id=82e92ff13ba8402d8eb658f3f92e0d0b",
   "changelog": "Aucun Changement ont été Partager",
   "changes": [
     {
-      "type": "correction",
-      "label": "Correction",
-      "text": "Rework du Menu Principale pour une meilleurs fluiditée d'utilisation"
+      "type": "amelioration",
+      "label": "Amélioration",
+      "text": "Rework de l'interface complete pour tenter de la rendre plus intuitive"
     },
     {
       "type": "ajout",
       "label": "Nouveauté",
-      "text": "Ajout de la fonction d'Univers"
+      "text": "Option de demarrage avec windows et / ou VRChat"
+    },
+    {
+      "type": "feature",
+      "label": "Nouveauté",
+      "text": "Fonctionalitée de sauvgarde des avatars rencontrée"
     }
   ]
 }
